@@ -20,6 +20,9 @@ header{
     width: 100%;
     z-index: 9999;
 }
+html{
+    scroll-behavior: smooth;
+}
 #logo{
     float: left;
     margin-top: 20px;
